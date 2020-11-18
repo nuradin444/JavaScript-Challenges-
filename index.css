@@ -1,0 +1,70 @@
+#DivChallenge1{
+
+    border-style: solid;
+    width:800px;
+    position: relative;
+    left: 380px; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+
+
+.title{
+text-align: center; 
+border-style: solid;
+
+}
+
+
+
+#DivHeading{
+    position: relative;
+    left: 210px;
+    top: 37px; 
+    width: 12%;
+    
+}
+#DivHeading2{
+width: 75%;
+position: relative;
+left: 380px;
+
+}
+
+#container{
+    
+    border-style: solid black;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    left:10px;
+
+}
+
+#flex-box-container-2, #container_3, #flex-box-rps-div{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+border: 1px solid black;
+width: 70%;
+margin: 0 auto;
+
+
+}
+
+#flex-box-container-2 img{
+    margin: 10px;
+    box-shadow: 0px 10px 50px rgba(0,0,0, 0.7);
+
+}
+
+.flex-box-rps img:hover{
+
+box-shadow:0px 10px 50px rgba(37,50,233, 1);
+
+}
+
